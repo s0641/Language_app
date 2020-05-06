@@ -1,0 +1,13 @@
+<resources>
+  <string name="app_name">Language App</string>
+  <string name="navigation_drawer_open">Open navigation drawer</string>
+  <string name="navigation_drawer_close">Close navigation drawer</string>
+  <string name="nav_header_title">Language</string>
+  <string name="nav_header_subtitle">abcd</string>
+  <string name="nav_header_desc">android development</string>
+  <string name="action_settings">Settings</string>
+  <string name="description_title">This is the app that i have made for language change </string>
+  <string name="text_hindi" translatable="false">हिंदी</string>
+  <string name="text_english" translatable="false">English</string>
+  <string name="text_spanish" translatable="false">" Español"</string>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">भाषा ऐप</string>
+  <string name="navigation_drawer_open">नेविगेशन ड्रावर को खोले</string>
+  <string name="navigation_drawer_close">नेविगेशन ड्रावर को बंद करें </string>
+  <string name="nav_header_title">भाषा</string>
+  <string name="nav_header_subtitle">ऐ बी सी डी</string>
+  <string name="nav_header_desc">Android विकास</string>
+  <string name="action_settings">सेटिंग</string>
+  <string name="description_title">यह वह ऐप है जिसे मैंने भाषा परिवर्तन के लिए बनाया है</string>
+
+</resources>
